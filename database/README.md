@@ -1,4 +1,4 @@
-# You must initdb befor flask run
+# You must initdb before flask run
 
 ```bash
 flask initdb
